@@ -25,6 +25,8 @@
     <preference name="android-minSdkVersion" value="16" />
     <preference name="BackupWebStorage" value="none" />
 
+    <!-- Splash screen auto hide removed to avoid 
+         white screen when content still loading. -->
     <preference name="SplashScreen" value="screen" />
     <preference name="FadeSplashScreen" value="true" />
     <preference name="AutoHideSplashScreen" value="false" />

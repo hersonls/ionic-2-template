@@ -5,6 +5,7 @@ Bellow you will see the list of the features included.
 
 ## Features
 - Social login ready to use ( facebook, twitter, google ).
+- yarn.lock 😉.
 
 ## Better experience features
 - Splash screen only hide when content is fully loaded.
